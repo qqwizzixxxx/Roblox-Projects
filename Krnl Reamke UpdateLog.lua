@@ -7,6 +7,4 @@
  12.03.23 Update Log:
 1.Fixed Bugs With CloseUI,
 2.New Buttons:Credits,CloseCredits
- 24.03.23 Update Log:
-1.New Button:Script Hub
 ]]
